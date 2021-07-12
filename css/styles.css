@@ -4,9 +4,7 @@ body {
 }
 
 
-a {
-    margin: 0 10px;
-    color: #008000;
+a {    
     text-decoration: underline;
 }
 
@@ -19,5 +17,10 @@ img {
     border-radius: 10px;
     display: block;
     margin: 30px auto;
+}
+
+.intern-links {
+    margin: 0 10px;
+    color: #008000;
 }
 
