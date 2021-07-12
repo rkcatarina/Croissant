@@ -1,0 +1,23 @@
+body {
+    background-color: #F8E8A6;
+    text-align: center;
+}
+
+
+a {
+    margin: 0 10px;
+    color: #008000;
+    text-decoration: underline;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+img {
+    max-width: 80%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
